@@ -3,7 +3,7 @@ include_once  'lib/database.php';
 include_once  'helpers/format.php';
 spl_autoload_register(function ($class) {
     include_once "classes/" . $class . ".php";
-}).
+})
 $cart = new cart();
 
 error_reporting(0);
