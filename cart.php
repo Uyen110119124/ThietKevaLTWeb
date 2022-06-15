@@ -181,5 +181,5 @@ if (isset($_GET['MaGioHang'])) {
             ?>
 
             </div>
-            <!-- End Cart -->
+            
             <?php include 'inc/footer.php' ?>
